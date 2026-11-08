@@ -10,6 +10,7 @@ public class Homework_4_1 {
                 System.out.print(arr[i][j] + " ");
             }
             System.out.println();
+            
         }
     }
 
