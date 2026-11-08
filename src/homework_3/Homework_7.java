@@ -6,6 +6,7 @@ import java.util.Scanner;
 public class Homework_7 {
     static void main() {
         System.out.println("Введите размерность массива: ");
+        int arr2[] = new int[2];
         Scanner sc = new Scanner(System.in);
         int size = sc.nextInt();
         if (size > 0){
